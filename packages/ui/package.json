@@ -114,6 +114,7 @@
     "zod": "3.25.76"
   },
   "peerDependencies": {
+    "@radix-ui/react-tooltip": "*",
     "@tanstack/react-query": "^5.0.0",
     "react": "^18.0.0 || ^19.0.0",
     "react-dom": "^18.0.0 || ^19.0.0"
